@@ -1,4 +1,4 @@
-title:            Wake Up: Young Buddhists and non-Buddhists for a Healthy and Compassionate Society
+title:            Wake Up -- Young Buddhists and non-Buddhists for a Healthy and Compassionate Society
 description:      Wake Up is an active global community of young adults, aged 18-35, established by Zen Master Thich Nhat Hanh in 2008. We come together to practice mindfulness to take care of ourselves and help transform society. We follow the Five Mindfulness Trainings, which are ethical guidelines that offer concrete practices of true love and understanding, and a path towards a life in harmony with each other and the Earth.
 
 
@@ -8,21 +8,21 @@ url:              http://brstream.github.io
 
 # Owner/author information
 owner:            Douglas Bachman
-  name:           Phap Luu
-  avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+name:           Phap Luu
+avatar:         avatar.jpg
+bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+email:          you@email.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        http://twitter.com/wkup
-  facebook:       http://facebook.com/wakeupint
-  github:         http://github.com/plumvillage
-  stackexchange:  
-  linkedin:       
-  instagram:      
-  flickr:         
-  tumblr:         
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:   
+twitter:        http://twitter.com/wkup
+facebook:       http://facebook.com/wakeupint
+github:         http://github.com/plumvillage
+stackexchange:  
+linkedin:       
+instagram:      
+flickr:         
+tumblr:         
+# For Google Authorship https://plus.google.com/authorship
+google_plus:   
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
