@@ -1,19 +1,21 @@
-title:            Site Title
-description:      Describe your website here.
-disqus_shortname: 
+title:            Wake Up: Young Buddhists and non-Buddhists for a Healthy and Compassionate Society
+description:      Wake Up is an active global community of young adults, aged 18-35, established by Zen Master Thich Nhat Hanh in 2008. We come together to practice mindfulness to take care of ourselves and help transform society. We follow the Five Mindfulness Trainings, which are ethical guidelines that offer concrete practices of true love and understanding, and a path towards a life in harmony with each other and the Earth.
+
+
+disqus_shortname: wkup-dev
 #Comment out url when working locally to resolve base urls correctly
-url:              http://your-website.com
+url:              http://brstream.github.io
 
 # Owner/author information
-owner:
-  name:           Your Name
+owner:            Douglas Bachman
+  name:           Phap Luu
   avatar:         avatar.jpg
   bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
   email:          you@email.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
+  twitter:        http://twitter.com/wkup
+  facebook:       http://facebook.com/wakeupint
+  github:         http://github.com/plumvillage
   stackexchange:  
   linkedin:       
   instagram:      
@@ -31,10 +33,10 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Theme Setup
-    url: /theme-setup
-  - title: External Link
-    url: http://mademistakes.com
+  - title: Blog
+    url: /blog
+  - title: Wake Up website
+    url: http://wkup.org
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
